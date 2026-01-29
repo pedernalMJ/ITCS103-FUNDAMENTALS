@@ -17,11 +17,14 @@ print("the leng of the word is:",length)
 print("the average of the number is",a)
 if a <length:
     print("The length  of the word",word,"is greater than the average")
-else:
+elif:
     print("The length of the word",word,"is less than the average")
+else:
+    print("The lenght of the word",word,"is equal to the average")
 
 
 
 
     
+
 
