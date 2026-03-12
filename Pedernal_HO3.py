@@ -52,7 +52,7 @@ addb = tk.Button(frame1,text="add",command = add)
 addb.grid(row=3,column=0)
 addc = tk.Button(frame1,text="minus",command = minus)
 addc.grid(row=4,column=0)
-addd = tk.Button(frame1,text="multiply",command = minus)
+addd = tk.Button(frame1,text="multiply",command = multi)
 addd.grid(row=3,column=1)
 adde = tk.Button(frame1,text="divide",command = div)
 adde.grid(row=4,column=1)
@@ -60,5 +60,6 @@ adde.grid(row=4,column=1)
 
 # entry1 =
 window.mainloop()
+
 
 
