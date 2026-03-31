@@ -109,9 +109,3 @@ login = tk.Button(frame, text="Login",bg="green", command=opem_login,width=30 ,a
 login.grid(row=2, column=0)
 
 window.mainloop()
-#  if check_val.get() == 1:
-#         labe2 = tk.Label(window,text="rememeber me is clicked")
-#         labe2.pack()
-#     else:
-#         labe2 = tk.Label(window,text="rememeber me is not clicked")
-#         labe2.pack()
